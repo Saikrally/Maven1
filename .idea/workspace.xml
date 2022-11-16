@@ -4,24 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1e5197d0-4df9-4086-960c-e3a007117ff0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Checkboxes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Constants.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Dropdowns.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/HelperMethods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/MainClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/META-INF/maven/archetype.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/archetype-resources/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/archetype-resources/src/main/java/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/archetype-resources/src/test/java/AppTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="1e5197d0-4df9-4086-960c-e3a007117ff0" name="Changes" comment="Selenium tests" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -97,6 +80,21 @@
       <option name="presentableId" value="Default" />
       <updated>1667294260522</updated>
     </task>
+    <task id="LOCAL-00001" summary="Selenium tests">
+      <created>1668606129359</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1668606129359</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Selenium tests">
+      <created>1668606171413</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1668606171413</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -109,5 +107,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Selenium tests" />
+    <option name="LAST_COMMIT_MESSAGE" value="Selenium tests" />
   </component>
 </project>
